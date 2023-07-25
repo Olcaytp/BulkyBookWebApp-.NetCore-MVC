@@ -39,12 +39,12 @@ To run the application locally, follow these steps:
 
 The following technologies were used in the development of this project:
 
-- C# Programming Language ![c_sharp_icon](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/949ec491-b2de-49b3-907e-4e6c9f9a62ab)
+- C# Programming Language
 
-- .NET Core 6![NET_Framework](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/102b7209-89be-4a19-8536-77373d3405e8)
+- .NET Core 6
 
 - ASP.NET Core MVC
-- Microsoft SQL Server![database_icon](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/2ddba9ad-fd72-4c5b-a3e0-b00f109e840b)
+- Microsoft SQL Server
 
 
 ## Contributions
