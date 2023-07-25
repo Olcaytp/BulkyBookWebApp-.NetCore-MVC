@@ -40,6 +40,18 @@ To run the application locally, follow these steps:
 4. Run the database migrations to create the necessary tables.
 5. Build and run the application.
 
+## ScreenShots
+![2](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/a8af6122-0d7e-4760-9fe3-cd7e9d0c2a27)
+*******************************************************************************************************************************************************************************
+![1](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/fc5e99f8-6167-48ae-a99a-0bbf03e67ccb)
+*******************************************************************************************************************************************************************************
+![3](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/20471d2e-daa2-44bd-9a3b-5341e0027623)
+*******************************************************************************************************************************************************************************
+![4](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/2e8fbab3-3871-4c87-9cf8-6de4d5132063)
+*******************************************************************************************************************************************************************************
+![5](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/8ebc9e58-dfc3-4cb2-95b5-4a5ff2761454)
+
+
 ## Technologies Used
 
 The following technologies were used in the development of this project:
@@ -63,14 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 I would like to express my gratitude to the FreeCodeCamp platform and the instructor for providing the Learn ASP.NET Core MVC (.NET 6) course, which served as the foundation for this project.
-
-## Project Images
-![2](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/a8af6122-0d7e-4760-9fe3-cd7e9d0c2a27)
-*******************************************************************************************************************************************************************************
-![1](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/fc5e99f8-6167-48ae-a99a-0bbf03e67ccb)
-*******************************************************************************************************************************************************************************
-![3](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/20471d2e-daa2-44bd-9a3b-5341e0027623)
-*******************************************************************************************************************************************************************************
-![4](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/2e8fbab3-3871-4c87-9cf8-6de4d5132063)
-*******************************************************************************************************************************************************************************
-![5](https://github.com/Olcaytp/BulkyBookWebApp-.NetCore-MVC/assets/85984966/8ebc9e58-dfc3-4cb2-95b5-4a5ff2761454)
