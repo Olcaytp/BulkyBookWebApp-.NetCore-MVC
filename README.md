@@ -68,10 +68,6 @@ The following technologies were used in the development of this project:
 
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, feel free to create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 I would like to express my gratitude to the FreeCodeCamp platform and the instructor for providing the Learn ASP.NET Core MVC (.NET 6) course, which served as the foundation for this project.
