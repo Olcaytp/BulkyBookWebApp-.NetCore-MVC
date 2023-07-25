@@ -25,6 +25,11 @@ The CRUD project offers the following key features:
 - Update: Permits users to modify the existing data in the database.
 - Delete: Allows users to remove unwanted data entries from the database.
 
+## Bootstrap Theme - Solar (from Bootswatch)
+
+For the user interface, the project utilizes the Solar theme from Bootswatch. The theme provides a visually appealing and user-friendly experience, enhancing the overall aesthetics of the application.
+
+
 ## Getting Started
 
 To run the application locally, follow these steps:
